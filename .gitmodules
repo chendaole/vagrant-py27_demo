@@ -1,0 +1,3 @@
+[submodule "scrapy_demo"]
+	path = scrapy_demo
+	url = git@github.com:chendaole/scrapy_demo.git
